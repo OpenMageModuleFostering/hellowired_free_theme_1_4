@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/HelloWired_Free_Theme_1_4",
+    "name": "OpenMageModuleFostering\/HelloWired_Free_Theme_1_4",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
     "description": "Say Hello to HelloWired, take your store to the next level with this great free theme.",
     "authors": [
-    {
-        "name": "HelloThemes.com",
-        "email": "sales@hellothemes.com"
-    }
-],
+        {
+            "name": "HelloThemes.com",
+            "email": "sales@hellothemes.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
